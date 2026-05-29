@@ -1,0 +1,7 @@
+source_file: sales.csv
+
+target_table: bronze.sales
+
+load_type: full_load
+
+delimiter: ","
